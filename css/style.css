@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  
+  .cal-section {
+    width: 100%;
+    height: 100vh;
+    background: #EAEBEC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .display-part{
+    background: #3A4655;
+   width: 100%;
+   height: 150px;
+   padding: 20px;
+  }
+  .main-box{
+    width: 25%;
+    padding: 80px 30px 40px;
+    background: white
+
+  }
+  .display-part{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .display-part input{
+    width: 90%;
+    padding: 18px 0px;
+  }
+  .btn{
+    width: 10%;
+    margin: 10px 5px;
+    background: rgba(128, 128, 128, 0.261);
+    border-radius: none;
+    border: 1px solid  rgba(128, 128, 128, 0.261);
+    border-radius: 5px !important;
+  }
+  
+  
+  
+  
